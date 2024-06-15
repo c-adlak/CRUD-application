@@ -1,0 +1,20 @@
+.show-main-container {
+  width: 80%; /* Adjust the width as needed (e.g., 70%, 90%) */
+  margin: 0 auto; /* Center the container horizontally */
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.show-cards {
+  border: none !important;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2) !important;
+}
+
+.btn-div {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-end;
+}

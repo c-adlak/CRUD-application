@@ -1,0 +1,12 @@
+.home-outer-container {
+  width: 100%;
+  height: 100vh;
+}
+
+.home-inner-container {
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
